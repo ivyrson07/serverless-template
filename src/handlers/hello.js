@@ -1,7 +1,7 @@
 async function hello(event, context) {
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: "Ivyrson's first serverless app" }),
+    body: JSON.stringify({ message: "This is a serverless template. Hello world." }),
   };
 }
 
