@@ -1,4 +1,4 @@
-service: serverless-template
+service: sls-template-nodejs
 
 plugins:
   - serverless-bundle
